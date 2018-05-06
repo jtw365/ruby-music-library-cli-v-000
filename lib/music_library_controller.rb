@@ -87,3 +87,5 @@ class MusicLibraryController
   end
 
 end
+
+call
